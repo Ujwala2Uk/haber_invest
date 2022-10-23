@@ -1,0 +1,28 @@
+{
+    "cards":[
+        {
+            "image":"https://assets.euromoneydigital.com/dims4/default/a39656c/2147483647/strip/true/crop/3202x1801+0+421/resize/1200x675!/quality/90/?url=http%3A%2F%2Feuromoney-brightspot.s3.amazonaws.com%2Fe3%2Fa1%2F7472bbc2471f986261881ee667d1%2Fpb-survey-2022-logo-safe-space.png",
+            "title":"PRIVATE BANKING",
+            "description":"Private banks are banks owned by either the individual or a general partner(s) with limited partner(s)."
+            
+        },
+        {
+            "image":"https://www.ebillity.com/wp-content/uploads/2018/09/Time-Saving-Tips.jpeg",
+            "title":"TIME SAVING TIPS",
+            "description":"“What gets measured gets done.” Though experts debate who wrote this old adage, few disagree with its wisdom."
+            
+        },
+        {
+            "image":"https://www.saintgildasdesbois.fr/medias/2020/12/image-budget.jpg",
+            "title":"BUDGETING TIPS",
+            "description":"When you see planning a budget as simply spending your money intentionally, you can actually find more. "
+            
+        },
+        {
+            "image":"https://static.wixstatic.com/media/dd9303_540b6a3e9c9048a99d38a6d70c14d0e8~mv2.jpg/v1/fill/w_980,h_527,al_c,q_85,enc_auto/dd9303_540b6a3e9c9048a99d38a6d70c14d0e8~mv2.jpg",
+            "title":"MONEY SAVING IDEAS",
+            "description":" Establish your budget. The best way to jumpstart establishing a budget is to realize your spending habits. "
+           
+        }
+    ]
+}
